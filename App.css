@@ -1,0 +1,21 @@
+body{
+    width: 95vw;
+    height: 95vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: rgb(255, 217, 0);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    text-align: center;
+}
+
+canvas{
+    margin-bottom: 50px;
+}
+
+
